@@ -67,4 +67,4 @@ This repository contains an **AI-driven Telegram chatbot workflow** built in **n
 * AI-driven conversational tools
 
 ## Demo Video
-[demo video](https://youtu.be/k5MWwmv9KRY)
+[demo video](https://youtu.be/fupPYuYon5I)
