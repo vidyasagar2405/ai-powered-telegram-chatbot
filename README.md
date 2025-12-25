@@ -1,5 +1,3 @@
-# n8n-Automation-Single-and-Multi-user-Telegram-Chatbot-using-AI-Agent
-
 ## 🤖 AI-Powered Telegram Chatbot using n8n, Google Gemini & Memory
 
 This repository contains an **AI-driven Telegram chatbot workflow** built in **n8n**, designed to support both **multi-user chat** and **authorized-user-only chat**, with intelligent responses powered by Google Gemini and conversation memory handling.
@@ -67,4 +65,4 @@ This repository contains an **AI-driven Telegram chatbot workflow** built in **n
 * AI-driven conversational tools
 
 ## Demo Video
-[demo video](https://youtu.be/fupPYuYon5I)
+## [Video](https://youtu.be/fupPYuYon5I)
